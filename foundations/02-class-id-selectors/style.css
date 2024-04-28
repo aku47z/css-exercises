@@ -1,0 +1,24 @@
+/* style.css */
+
+.odd {
+    font-size: 18px;
+    background-color: #ffc0cb;
+    font-family: "Verdana", sans-serif;
+}
+
+.odd.third {
+    font-size: 24px;
+}
+
+#second {
+    font-family: "Times New Roman", serif;
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#fourth {
+    font-family: "Times New Roman", serif;
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
